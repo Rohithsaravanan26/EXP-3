@@ -57,11 +57,12 @@ b)SPDT(XOR):
 
 <img width="798" height="402" alt="image" src="https://github.com/user-attachments/assets/1b40869c-979c-419f-be8e-8363f9eded2c" />
 
+![IMG-20251016-WA0020](https://github.com/user-attachments/assets/cf2f018d-33f0-4d5c-b22f-d0afcfd53bf4)
+![IMG-20251016-WA0021](https://github.com/user-attachments/assets/ba7db7e4-77a0-454b-8943-31f2fb0b108f)
+![IMG-20251016-WA0024](https://github.com/user-attachments/assets/6c8d895e-5053-4842-8162-a3f9c3dd4274)
+![IMG-20251016-WA0025](https://github.com/user-attachments/assets/d9285d02-a961-4c7e-818b-b63ce5e369d9)
+![IMG-20251016-WA0026](https://github.com/user-attachments/assets/96fe364c-e774-431c-8001-01cf92f07a5d)
 
-a) SPDT(XNOR):
-
-
-b) SPDT(XOR):
 
 
 
